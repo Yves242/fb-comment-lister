@@ -8,6 +8,9 @@ This takes in an exported xlsx file from https://exportcomments.com/ and produce
 ![image](https://github.com/Yves242/fb-comment-lister/assets/70612985/0cb978f7-fffa-426a-860a-e4fac59abbad)
 
 2. Select your imported XLSX files (presumably exported from https://exportcomments.com/) and click `Open`.
+
+![image](https://github.com/Yves242/fb-comment-lister/assets/70612985/6c631324-e2c4-4b56-80e8-bea4208dcf56)
+
    
 3. TXT files will then be produced at the place where `export-names.exe` is located. The filename is labeled as `[date] fc-<id>.txt` where `<date>` is the date of the first comment in the XLSX file (located at "E8").
    
@@ -17,4 +20,6 @@ This takes in an exported xlsx file from https://exportcomments.com/ and produce
    
 ![image](https://github.com/Yves242/fb-comment-lister/assets/70612985/e9e1b820-b271-4a00-9ca6-4a184654be47)
 
+## I do not trust the EXE file. Where is the source code?
+If you do not trust the EXE file, you can manually run the python file `export-names.py` by either running `python export-names.py` or `python3 export-names.py`, whichever is usable depending on your Python distribution.
 
