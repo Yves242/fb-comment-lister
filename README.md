@@ -14,7 +14,7 @@ This takes in an exported xlsx file from https://exportcomments.com/ and produce
    
 3. TXT files will then be produced at the place where `export-names.exe` is located. The filename is labeled as `[date] fc-<id>.txt` where `<date>` is the date of the first comment in the XLSX file (located at "E8").
    
-![image](https://github.com/Yves242/fb-comment-lister/assets/70612985/2a8068ba-a37f-4413-9bb7-3977de07c798)
+![image](https://github.com/Yves242/fb-comment-lister/assets/70612985/e7235933-3ed2-47c3-8265-2798f82a1d6a)
 
 4. After successful operation, the program will close. Below are sample outputs. Each entry is formatted as `[comment_count] <name>`.
    
