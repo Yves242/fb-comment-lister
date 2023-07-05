@@ -5,7 +5,7 @@ This takes in an exported xlsx file from https://exportcomments.com/ and produce
 
 1. In order to use this program, simply download `dist/export-names.exe` and run the file. Opening the program will produce a similar case below.
 
-![image](https://github.com/Yves242/fb-comment-lister/assets/70612985/0cb978f7-fffa-426a-860a-e4fac59abbad)
+![image](https://github.com/Yves242/fb-comment-lister/assets/70612985/3b359652-e410-4a49-bd8b-402b76fe8cdc)
 
 2. Select your imported XLSX files (presumably exported from https://exportcomments.com/) and click `Open`.
 
