@@ -23,5 +23,4 @@ This takes in an exported xlsx file from https://exportcomments.com/ and produce
 
 ## I do not trust the EXE file. Where is the source code?
 
-If you do not trust the EXE file, you can manually run the python file `export-names.py` by either running `python export-names.py` or `python3 export-names.py`, whichever is usable depending on your Python distribution. From there, you can see exactly how the program works. (I exported the PY file into EXE using `pyinstaller --onefile export-names.py`).
-
+I exported the PY file into EXE using `pyinstaller --onefile export-names.py`; However, if you do not trust the EXE file, you can manually run the python file `export-names.py` by either running `python export-names.py` or `python3 export-names.py`, whichever is applicable depending on your Python distribution. From there, you can investigate exactly how the program works, and perhaps compile one on your own.
